@@ -1,5 +1,5 @@
 # dantuono_privacy_detection
-Tecniche per individuare vulnerabilità software che mettono a rischio la privacy
+
 Questa repository contiene gli strumenti ottenuti come descritto nella ricerca: 
 Tecniche per individuare vulnerabilità software che mettono a rischio la privacy.
 
